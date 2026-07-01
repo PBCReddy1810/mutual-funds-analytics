@@ -8,7 +8,7 @@ from reportlab.pdfgen import canvas
 # Paths
 ARTIFACT_DIR = r"C:\Users\BHUVAN\AppData\Local\Programs\Python\Python313\Lib\site-packages" # Wait, actually let's use the actual directory where artifacts are saved:
 # The system told us: "Generated image is saved at C:\Users\anves\.gemini\antigravity\brain\9b4dd750-33d9-4f32-a637-6b087d614a35\dashboard_page_one_1782726715468.png"
-CONV_DIR = r"C:\Users\anves\.gemini\antigravity\brain\9b4dd750-33d9-4f32-a637-6b087d614a35"
+CONV_DIR = r"C:\Users\BHUVAN\.gemini\antigravity\brain\9b4dd750-33d9-4f32-a637-6b087d614a35"
 PROJECT_IMAGE_DIR = r"D:\mutual-fund-analytics\reports\images"
 PDF_PATH = r"D:\mutual-fund-analytics\reports\Dashboard.pdf"
 
